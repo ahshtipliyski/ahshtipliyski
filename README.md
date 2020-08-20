@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello 👋. My name is Anton Shtipliyski</h1>
-<h3 align="center">And I am a full-stack developer</h3>
+<h1 align="center">Hello 👋, my name is Anton Shtipliyski and,</h1>
+<h3 align="center">I am a full-stack developer</h3>
 <p>🔭 I’m currently working on React, Firebase, Node projects<p/>
 <p>🌱 I’m currently learning everything 😂<p/>
 <hr/>
