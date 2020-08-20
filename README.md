@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>🔭 I’m currently working on React, Firebase, Node projects<p/>
 <p>🌱 I’m currently learning everything 😂<p/>
 <p>📫 How to reach me:<p/>
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[<img align="left" alt="ahsjtipliyski.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
 [<img align="left" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 <hr/>
@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahshtipliyski&show_icons=true" alt="ahshtipliyski" /></p>
 
 
-[1]: http://www.github.com/ahshtipliyski
-[2]: https://www.linkedin.com/in/anton-shtipliyski/
+[website]: http://ahshtipliyski.github.io
+[linkedin]: https://www.linkedin.com/in/anton-shtipliyski
 
