@@ -34,9 +34,10 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </p>
 <hr/>
-### Connect with me:
+<h2>Connect with me:<h2/>
 
 [<img align="left" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshtipliyski&layout=compact&hide=html" alt="ahshtipliyski" /></p>
 
@@ -45,3 +46,4 @@ Here are some ideas to get you started:
 
 
 [website]: https://ahshtipliyski.github.io
+[linkedin]: https://www.linkedin.com/in/anton-shtipliyski
