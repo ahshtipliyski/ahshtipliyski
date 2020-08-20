@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <p>🔭 I’m currently working on React, Firebase, Node projects<p/>
 <p>🌱 I’m currently learning everything 😂<p/>
 <p>📫 How to reach me:<p/>
-[<img align="center" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://ahshtipliyski.github.io]
-[<img align="center" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 <hr/>
 
