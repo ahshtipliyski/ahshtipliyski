@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello 👋, My name is Anton Shtipliyski</h1>
 <h3 align="center">And I am a full-stack developer</h3>
-### Connect with me:
-
+<br/>
+Connect with me:
 [<img align="left" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br/>
