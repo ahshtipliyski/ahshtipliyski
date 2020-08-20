@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, My name is Anton Shtipliyski</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hello 👋, My name is Anton Shtipliyski</h1>
+<h3 align="center">And I am a full-stack developer</h3>
 <hr/>
 <p align="center"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
