@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </p>
 <hr/>
+### Connect with me:
 
 [<img align="left" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -41,6 +42,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahshtipliyski&show_icons=true" alt="ahshtipliyski" /></p>
 
-### Connect with me:
+
 
 [website]: https://ahshtipliyski.github.io
