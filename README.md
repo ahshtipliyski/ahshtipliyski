@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">And I am a full-stack developer</h3>
 <p>🔭 I’m currently working on React, Firebase, Node projects<p/>
 <p>🌱 I’m currently learning everything 😂<p/>
-<p>📫 How to reach me: <span>
+<p>📫 How to reach me:
   [<img align="center" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
   [<img align="center" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-<span/><p/>
+<p/>
 <hr/>
 
 <p align="center">
