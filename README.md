@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<hr/>
+<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshtipliyski&layout=compact&hide=html" alt="ahshtipliyski" /></p>
 
