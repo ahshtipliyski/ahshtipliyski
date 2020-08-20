@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">And I am a full-stack developer</h3>
 <p>🔭 I’m currently working on React, Firebase, Node projects<p/>
 <p>🌱 I’m currently learning everything 😂<p/>
-<p>📫 How to reach me:<p/>
-[<img align="left" alt="ahsjtipliyski.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
-[<img align="left" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+<p>📫 How to reach me:<p/>  
 
 <hr/>
+
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -40,6 +39,10 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </p>
 <hr/>
+
+### Contact me:
+[<img align="left" alt="ahsjtipliyski.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
+[<img align="left" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshtipliyski&layout=compact&hide=html" alt="ahshtipliyski" /></p>
 
