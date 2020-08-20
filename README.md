@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
-
+<hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshtipliyski&layout=compact&hide=html" alt="ahshtipliyski" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahshtipliyski&show_icons=true" alt="ahshtipliyski" /></p>
