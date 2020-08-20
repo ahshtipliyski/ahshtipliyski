@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 
+[<img align="left" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshtipliyski&layout=compact&hide=html" alt="ahshtipliyski" /></p>
 
@@ -42,5 +43,4 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="https://ahshtipliyski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [website]: https://ahshtipliyski.github.io
