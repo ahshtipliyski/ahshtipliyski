@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 
-<p>📫 How to reach me:<p/> 
+### <p>📫 How to reach me:<p/> 
 [<img align="left" alt="ahsjtipliyski.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
 [<img align="left" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
