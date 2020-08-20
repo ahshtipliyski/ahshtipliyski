@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">And I am a full-stack developer</h3>
 <p>🔭 I’m currently working on React, Firebase, Node projects<p/>
 <p>🌱 I’m currently learning everything 😂<p/>
-<p>📫 How to reach me:<p/>  
+ 
 
 <hr/>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 
-### Contact me:
+<p>📫 How to reach me:<p/> 
 [<img align="left" alt="ahsjtipliyski.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][website]
 [<img align="left" alt="anton-shtipliyski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
