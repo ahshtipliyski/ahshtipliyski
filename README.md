@@ -1,8 +1,7 @@
 
 <h1 align="center">Hello 👋, my name is Anton Shtipliyski and,</h1>
 <h3 align="center">I am a full-stack developer</h3>
-<p>🔭 I’m currently working on React, Firebase, Node projects. Recently started learning Vue.js<p/>
-<p>🌱 I’m currently learning everything 😂<p/>
+<p>🔭 I’m currently working with Vue.js, Vuex, C# .NET, Azure SQL.<p/>
 <hr/>
 
 ### <p>📫 How to reach me:<p/> 
